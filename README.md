@@ -190,5 +190,5 @@ For issues, questions, or contributions:
 
 ---
 
-*A fun and useful project of mine built with ❤️ for the people who are also tired of relying on conventional bioinformatics tools for SNP discovery like me*
+*A fun and useful university project of mine built with ❤️ for the people who are also tired of relying on conventional bioinformatics tools for SNP discovery like me*
 ```
